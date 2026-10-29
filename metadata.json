@@ -1,0 +1,6 @@
+{
+  "name": "Rephrase.ai",
+  "description": "Transform rough notes and raw thoughts into polished, tone-perfect messages for any recipient.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
